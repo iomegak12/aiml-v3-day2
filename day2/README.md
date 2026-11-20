@@ -3,6 +3,7 @@
 ML training demonstration for **NetCore TAC Desk** (fictional networking vendor): predict ticket resolution hours at triage time.
 
 - Business use case: [docs/business-use-case.txt](docs/business-use-case.txt)
+- Session log (prompts + Q&A): [docs/01-initial-setup-data-generation.md](docs/01-initial-setup-data-generation.md)
 - Topics: Data Quality, EDA, Feature Engineering, Pipelines, Regression
 
 ## Project Structure

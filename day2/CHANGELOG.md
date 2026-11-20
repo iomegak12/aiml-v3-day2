@@ -5,6 +5,10 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) · Versioning: 
 
 ## [Unreleased]
 
+### Added
+
+- `docs/01-initial-setup-data-generation.md` — prompts and Q&A log for setup and data generation
+
 ## [0.2.0] - 2026-11-20
 
 ### Added
