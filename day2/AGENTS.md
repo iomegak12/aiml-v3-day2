@@ -28,6 +28,7 @@
 | `tests/`   | Unit tests                                      |
 | `data/`    | All data — sample, synthetic or generated       |
 | `docs/`    | Project and ML documentation                    |
+| `notebooks/` | Jupyter notebooks                             |
 
 - Keep a `.gitkeep` in every folder that would otherwise be empty.
 

@@ -29,3 +29,8 @@ Thumbs.db
 
 # Claude Code local settings
 .claude/settings.local.json
+
+# Instructor-only notes (kept out of git)
+.temp/
+
+.archive

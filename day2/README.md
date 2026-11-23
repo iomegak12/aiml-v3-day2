@@ -4,6 +4,7 @@ ML training demonstration for **NetCore TAC Desk** (fictional networking vendor)
 
 - Business use case: [docs/business-use-case.txt](docs/business-use-case.txt)
 - Session log (prompts + Q&A): [docs/01-initial-setup-data-generation.md](docs/01-initial-setup-data-generation.md)
+- Lecture notes: `.temp/notebook-lecture-notes.md` (instructor-only, git-ignored); each entry matches a `[Cnn]` tag in the notebook
 - Topics: Data Quality, EDA, Feature Engineering, Pipelines, Regression
 
 ## Project Structure
@@ -14,6 +15,10 @@ day2/
 │   └── copilot-instructions.md   # Copilot pointer → AGENTS.md
 ├── data/                         # Sample / synthetic data
 ├── docs/                         # Project & ML documentation
+├── notebooks/
+│   ├── ticket-resolution-ml-workflow.ipynb      # Day 2 ML workflow (slim student version)
+│   └── archive/
+│       └── ticket-resolution-ml-workflow-full.ipynb   # Full detailed version (instructor reference)
 ├── scripts/
 │   └── generate_tickets.py       # CLI: build synthetic dataset → CSV
 ├── src/
